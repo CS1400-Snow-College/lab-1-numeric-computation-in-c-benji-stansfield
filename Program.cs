@@ -1,7 +1,7 @@
-﻿// WorkWithIntegers();
-// OrderPrecedence();
-// TestLimits();
-// WorkWithDoubles();
+﻿WorkWithIntegers();
+OrderPrecedence();
+TestLimits();
+WorkWithDoubles();
 WorkWithDecimals();
 
 void WorkWithIntegers()
