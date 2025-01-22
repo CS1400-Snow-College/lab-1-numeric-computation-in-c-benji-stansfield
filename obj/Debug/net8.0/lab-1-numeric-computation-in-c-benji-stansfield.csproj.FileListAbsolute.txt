@@ -1,0 +1,15 @@
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\bin\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.exe
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\bin\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.deps.json
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\bin\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.runtimeconfig.json
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\bin\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\bin\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.pdb
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.AssemblyInfoInputs.cache
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.AssemblyInfo.cs
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.csproj.CoreCompileInputs.cache
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.sourcelink.json
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\refint\lab-1-numeric-computation-in-c-benji-stansfield.dll
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.pdb
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\lab-1-numeric-computation-in-c-benji-stansfield.genruntimeconfig.cache
+C:\Users\benji\code\my-code-dir\lab-1-numeric-computation-in-c-benji-stansfield\obj\Debug\net8.0\ref\lab-1-numeric-computation-in-c-benji-stansfield.dll
